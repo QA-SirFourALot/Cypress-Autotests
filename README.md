@@ -20,13 +20,13 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/Cypress-Autotests/main/BaseUrl.png)
 
 2. Применение хуков beforeEach и afterEach
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/Cypress-Autotests/main/Hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/Cypress-Autotests/main/Variables.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image]()
@@ -39,7 +39,7 @@
 npx cypress run --spec cypress/e2e/auth.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/Cypress-Autotests/main/Terminal_launch.png)
 
 
 ## Локальный запуск через Cypress UI
@@ -52,7 +52,7 @@ npx cypress run --spec cypress/e2e/auth.cy.js --browser chrome
 7. Выбрать спеку auth
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/Cypress-Autotests/main/CypressUI_Laucnh.png)
 
 
 ## Автор
