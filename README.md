@@ -29,7 +29,7 @@
 ![image](https://raw.githubusercontent.com/QA-SirFourALot/Cypress-Autotests/main/Variables.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/Cypress-Autotests/main/Locators.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
